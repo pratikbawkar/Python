@@ -5,7 +5,7 @@ z= x + y
 print(z) """
 
 # this is program 2 to ask input from user 
- 
+#   from user test 
 """ x = input("what's x ?")
 y = input("what's y ?")
 
