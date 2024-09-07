@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """ x = 1 
 y=2
 z= x + y
@@ -78,7 +77,7 @@ z = x/y
 # z = round(x/y,2)
 
 
-=======
+
 """ x = 1 
 y=2
 z= x + y
@@ -156,6 +155,3 @@ y = float(input("what's y ?"))
 z = x/y
 
 # z = round(x/y,2)
-
-
->>>>>>> master
